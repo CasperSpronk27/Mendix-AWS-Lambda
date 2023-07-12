@@ -4,7 +4,7 @@ Welcome to the Mendix AWS Lambda workshop!
 
 This workshop has been designed to help you get started with integrating your AWS Lambda functions with your Mendix apps. The workshop will start with downloading all required modules, followed by setting up your first AWS Lambda function. After this, you'll be taught how to call this function by first converting an input object to JSON format, and then covnerting the output JSON of the AWS Lambda function back into a Mendix object. This object can then be further parsed by the Mendix apps logic. 
 
-<b>This template already assumes that you have some knowledge of AWS, a AWS account, and a Mendix account</b>
+<b>This template already assumes that you have some knowledge of AWS, a AWS account, a Mendix account, and Mendix installed on your device</b>
 
 You can signup for a free Mendix account for free here: [Sign Up for Free](https://signup.mendix.com/link/signup/?source=none&medium=aws-demo)
 
